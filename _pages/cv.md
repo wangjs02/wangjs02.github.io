@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Exchange Programme (Aug 2022 - Dec 2022), University of California, Berkeley
+* B.S. in Statistics (Sep 2019 - Jun 2023 Expected), University of Hong Kong, 2022
+** Cumulative GPA 4.01/4.30. Dean’ Honors List in three successive years.
+* Winter School (Jan - Feb 2021), Korea University
 
 Work experience
 ======
