@@ -1,6 +1,6 @@
 ---
 title: "Semi-supervised Learning Based on Nadaraya-Watson Estimator"
-excerpt: "Capstone project at HKU<br/><img src='/images/500x300.png'>"
+excerpt: "Capstone project at HKU<br/><img src='/images/n=128_comp_1127.png.png'>"
 collection: portfolio
 ---
 
