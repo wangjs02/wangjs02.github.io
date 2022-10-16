@@ -1,6 +1,6 @@
 ---
 title: "Statistics in Forecasting"
-excerpt: "Tianxia Research Fellowship (Jan - Jun 2022) <br/><img src='/images/stat-in-forecasting.jpg'>"
+excerpt: "Tianxia Research Fellowship (Jan - Jun 2022)" #<br/><img src='/images/stat-in-forecasting.jpg'>"
 collection: portfolio
 ---
 Please find the project report [here](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/wjshku_connect_hku_hk/ER8KSi-M9t1Nm6E6TIMNDrMBZf26IenF4RPTKCOXGQJaXg?e=gXEb71).
