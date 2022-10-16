@@ -1,6 +1,6 @@
 ---
 title: "Semi-supervised Learning Based on Nadaraya-Watson Estimator"
-excerpt: "Capstone project & Research assistant, HKU (Aug 2021 - May 2022)" # <br/><img src='/images/n=128_comp_1127.png'>"
+excerpt: "Capstone project & Research assistant, HKU (Aug 2021 - May 2022)"
 collection: portfolio
 ---
 
@@ -8,3 +8,5 @@ Please find the project report [here](https://drive.google.com/file/d/1hUQancWNL
 
 This is a year-long project I worked on, advised by [Prof. Stephen Lee](https://saasweb.hku.hk/staff/smslee/). 
 I reached out to Prof. Stephen during the summer and we chatted about his ongoing research projects. On mentioning the idea of semi-supervised learning, I immediately felt drawn to it. As a Statistics student, it is hard to not be amazed when you get to know that the efficiency of an estimator can be boosted when an extra unlabelled dataset is used to construct an estimator. The idea of a semi-supervised estimator is not new, it has already been widely used in computer science. For example, researchers tested the method on image classification tasks and got state of the art results. However, rarely do they have rigorous proof to show why the method works well. We wanted to solve this problem. Guided by the idea of starting with the simplest case, we proposed a hybrid estimator based on Nadaraya Watson estimator. It is the most basic nonparametric kernel regression method. Then under the guidance of Prof. Stephen, I carried out meticulous calculations to show that the convergence rate of the proposed estimator is higher than the NW estimator itself when the band widths are chosen wisely. To visualize the result and help the understanding of the problem, I carried out dozens of experiments. Being careful enough, I repeated the  simulation for enough times to make sure that the result is significant in the sense that the difference in MSE is larger than the Monte Carlo error. The result about MSE was as expected but we had some interesting results about the behavior of the confidence interval and its coverage error. It seems that the optimal choice of band widths for MSE and Coverage differs. Then I ventured to compute the conditions when coverage error will be small. After doing some literature review, I found out that Berry Esseen’s theorem could be useful. To make sure that this theorem could be used in our case, I spent some time teaching myself advanced probability theory. Finally I managed to understand the theorem and the assumptions made after weeks of self learning. I presented the work to Prof. Stephen and we are trying to upgrade it to a multi-dimensional case in order to make our work more interesting to researchers and publishable
+
+<br/><img src='/images/n=128_comp_1127.png'>
