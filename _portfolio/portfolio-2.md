@@ -1,7 +1,9 @@
 ---
 title: "Randomization Test"
-excerpt: "Overseas Research Fellowship, Cambridge (Jun - Aug 2022) <br/><img src='/images/Experiment3 Size2.jpg'>"
+excerpt: "Overseas Research Fellowship, Cambridge (Jun - Aug 2022)" #<br/><img src='/images/Experiment3 Size2.jpg'>"
 collection: portfolio
 ---
+
+The project report is available [here](). 
 
 Subsequently, both motivated by my interest in causal inference and eagerness to experience different cultures, I reached out to Prof. Qingyuan Zhao at Cambridge about working with him on a summer research project. He was kind enough to supervise my work on the randomization test. I started preparing for the project during May 2022, focusing on reading Qingyuan’s relevant paper and going through the classical book Testing Statistical Hypothesis. I began the project with formulating Fisher’s exact test under sharp null with the potential outcome framework(this essentially echoes the idea that Fisher’s exact test is a randomization test). We later carried out simulations to have a better understanding of how the power function of such a test looks like. In the meantime, I read many papers, both classical ones such as yates and recent results such as Ding peng. They cover very broad topics from comparing Chi square test and  fisher’s exact test and explaining when conditional test makes sense to the recently proved randomization central limit theorem.  I learnt coding techniques(how to do MCMC simulations and parallel programming), gained skills to gather information from academic papers and honed my ability to convey ideas rigorously and summarize them in a report. 
