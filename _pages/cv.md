@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,15 +18,13 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Assistant
-  * University of Cambridge
-  * Duties included: Tagging issues
+* Summer 2022: Research Assistant, University of Cambridge
   * Supervisor: Professor Qingyuan Zhao
+  * Topic: Causal Inference, Randomization Test
 
-* Fall 2021 - Spring 2022: Research Assistant
-  * University of Hong Kong
-  * Duties included: Merging pull requests
+* Fall 2021 - Spring 2022: Research Assistant, University of Hong Kong
   * Supervisor: Professor Stephen Lee
+  * Topic: Semisupervised Learning, Statistics Inference
   
 Skills
 ======
@@ -55,4 +53,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Effective Altruism Hong Kong Executive Member, 2021 - 2022
+* China Education Association HKU, 2020 - 2021
