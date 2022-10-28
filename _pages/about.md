@@ -12,8 +12,8 @@ I am a undergraduate student major in Statistics and minor in CS and Economics, 
 
 ### More Information
 
-My HKU Undergraduate Capstone Course: [STAT3799 Semi-supervised Learning Based on NW Estimator](https://github.com/wjshku/STAT3799)
+Capstone Project: [STAT3799 Semi-supervised Learning Based on NW Estimator](https://github.com/wjshku/STAT3799)
 
-Forecasting Project I am now working on: [Statistics in Forecasting](https://github.com/wjshku/Forecasting)
+Forecasting Project I worked on: [Statistics in Forecasting](https://github.com/wjshku/Forecasting)
 
-Courses I like: Statistical Inference......Stay Tuned
+Courses I enjoyed: Statistical Inference, Statistical Machine Learning, Analysis, Linear Algebra, Probability(Graduate level)
