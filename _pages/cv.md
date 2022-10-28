@@ -50,12 +50,13 @@ Scholarships and Awards
   {% endfor %}</ul>
 -->
 
-Teaching
+<!---Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and Leadership
 ======
 * Effective Altruism Hong Kong Executive Member, 2021 - 2022
