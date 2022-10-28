@@ -6,7 +6,21 @@ collection: portfolio
 
 Please find the project report [here](https://drive.google.com/file/d/1hUQancWNL8_qXoryKsszqMXPpJMbFHnR/view?usp=sharing). 
 
-This is a year-long project I worked on, advised by [Prof. Stephen Lee](https://saasweb.hku.hk/staff/smslee/). 
-I reached out to Prof. Stephen during the summer and we chatted about his ongoing research projects. On mentioning the idea of semi-supervised learning, I immediately felt drawn to it. As a Statistics student, it is hard to not be amazed when you get to know that the efficiency of an estimator can be boosted when an extra unlabelled dataset is used to construct an estimator. The idea of a semi-supervised estimator is not new, it has already been widely used in computer science. For example, researchers tested the method on image classification tasks and got state of the art results. However, rarely do they have rigorous proof to show why the method works well. We wanted to solve this problem. Guided by the idea of starting with the simplest case, we proposed a hybrid estimator based on Nadaraya Watson estimator. It is the most basic nonparametric kernel regression method. Then under the guidance of Prof. Stephen, I carried out meticulous calculations to show that the convergence rate of the proposed estimator is higher than the NW estimator itself when the band widths are chosen wisely. To visualize the result and help the understanding of the problem, I carried out dozens of experiments. Being careful enough, I repeated the  simulation for enough times to make sure that the result is significant in the sense that the difference in MSE is larger than the Monte Carlo error. The result about MSE was as expected but we had some interesting results about the behavior of the confidence interval and its coverage error. It seems that the optimal choice of band widths for MSE and Coverage differs. Then I ventured to compute the conditions when coverage error will be small. After doing some literature review, I found out that Berry Esseen’s theorem could be useful. To make sure that this theorem could be used in our case, I spent some time teaching myself advanced probability theory. Finally I managed to understand the theorem and the assumptions made after weeks of self learning. I presented the work to Prof. Stephen and we are trying to upgrade it to a multi-dimensional case in order to make our work more interesting to researchers and publishable
+## Abstract
+In this report, the we discuss how semi-supervised learning (SSL) can be
+used in kernel regression, particularly Nadaraya-Watson estimator(NW estimator).
+SSL here refers to the statistical approach to leverage both labeled and unlabeled to
+generate better results in terms of mean square error and other criteria. The method
+of SSL is powerful in that it not only focuses on predicting the unobserved points, but
+also lays emphasis on explore unspecified patterns (Chapelle et al., 2009). This helps
+boost the performance of estimators when labeled data are sparse and expensive to
+collect while unlabeled data can be relatively easily obtained. Under the context of
+NW estimator, the classical estimator and the self-supervised estimator using labeled
+and unlabeled data will be merged into a hybrid estimator. The asymptotic
+distribution, mean square error(MSE) and confidence interval(CI) of the hybrid
+estimator will be calculated to demonstrate the effectiveness of SSL. Finally,
+simulations will be carried out to visualize the performance of each estimator. We
+intend to show that the choice of (h, g) is of great importance and the decision
+depends largely on the objective of research.
 
 <br/><img src='/images/n=128_comp_1127.png'>
