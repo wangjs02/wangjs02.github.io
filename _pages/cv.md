@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full curriculum vitae is available [here](https://drive.google.com/file/d/1Z4QupfVaMt-VLRNupF8TCIOVyFo839fJ/view?usp=share_link). 
+Full curriculum vitae [here](http://wjshku.io/files/CV.pdf). 
 
 Education
 ======
