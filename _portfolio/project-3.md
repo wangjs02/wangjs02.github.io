@@ -3,7 +3,6 @@ title: "Statistics in Forecasting"
 excerpt: "Tianxia Research Fellowship (Jan - Jun 2022)" #<br/><img src='/images/stat-in-forecasting.jpg'>"
 collection: portfolio
 ---
-Please find the project report [here](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/wjshku_connect_hku_hk/ER8KSi-M9t1Nm6E6TIMNDrMBZf26IenF4RPTKCOXGQJaXg?e=gXEb71).
 
 This is an abstract of my research project done during the brilliant Tianxia Research Mentorship. It revolves around forecasting and the potential usage of statistical model in this cause area(since I major in this). 
 
@@ -30,5 +29,4 @@ In this writeup, we mainly focuses on the usage of both simple and sophisticated
 
 Many thanks to the Tianxia Research Fellowship and my mentor [Will Aldred](https://www.linkedin.com/in/william-aldred/?originalSubdomain=uk) who is more than helpful during the whole mentorship. 
 
-# Download Report Here:
-Due to personal concerns, a short version of the report will be uploaded and is available [**here**](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/wjshku_connect_hku_hk/ER8KSi-M9t1Nm6E6TIMNDrMBZf26IenF4RPTKCOXGQJaXg?e=gXEb71). Some part of this report may be technical but please feel free to ask me anything through email. I will be more than happy to know that some one has interesting thought about my work. The complete version of the report is available [**here**](https://drive.google.com/file/d/11OBqsUzX5wSzf9SED-cwRvF4qTeINtms/view?usp=sharing)(please feel free to reach out to me if you find the project interesting). 
+[Download Report Here](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/wjshku_connect_hku_hk/ER8KSi-M9t1Nm6E6TIMNDrMBZf26IenF4RPTKCOXGQJaXg?e=gXEb71)
