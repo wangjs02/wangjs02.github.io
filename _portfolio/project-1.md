@@ -2,9 +2,7 @@
 title: "Semi-supervised Learning Based on Nadaraya-Watson Estimator"
 excerpt: "Capstone project & Research assistant, HKU (Aug 2021 - May 2022)"
 collection: portfolio
----
-
-Please find the project report [here](https://drive.google.com/file/d/1hUQancWNL8_qXoryKsszqMXPpJMbFHnR/view?usp=sharing). 
+--- 
 
 ## Abstract
 In this report, the we discuss how semi-supervised learning (SSL) can be
@@ -24,3 +22,5 @@ intend to show that the choice of (h, g) is of great importance and the decision
 depends largely on the objective of research.
 
 <br/><img src='/images/n=128_comp_1127.png'>
+
+[Download report here](http://academicpages.github.io/files/project1.pdf)
