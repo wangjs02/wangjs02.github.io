@@ -23,4 +23,4 @@ depends largely on the objective of research.
 
 <br/><img src='/images/n=128_comp_1127.png'>
 
-[Download report here](http://academicpages.github.io/files/project1.pdf)
+[Download report here](http://wjshku.github.io/files/project1.pdf)
