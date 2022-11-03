@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full curriculum vitae is available [here](https://drive.google.com/file/d/1Z4QupfVaMt-VLRNupF8TCIOVyFo839fJ/view?usp=share_link). 
+
 Education
 ======
 * Exchange Programme (Aug 2022 - Dec 2022), University of California, Berkeley
