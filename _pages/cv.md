@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full curriculum vitae [here](http://wjshku.io/files/CV.pdf). 
-
 Education
 ======
 * Exchange Programme (Aug 2022 - Dec 2022), University of California, Berkeley
@@ -63,3 +61,5 @@ Service and Leadership
 ======
 * Effective Altruism Hong Kong Executive Member, 2021 - 2022
 * China Education Association HKU, 2020 - 2021
+
+[Full curriculum vitae here](http://wjshku.github.io/files/CV.pdf). 
