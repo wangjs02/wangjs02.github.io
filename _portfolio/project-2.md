@@ -18,4 +18,4 @@ Theorem. In order to understand what finite population CLT means, we finally rev
 related papers and discuss how it is validated and what limitations it has.
 
 
-[Download report here](http://academicpages.github.io/files/project2.pdf)
+[Download report here](http://wjshku.github.io/files/project2.pdf)
