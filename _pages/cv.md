@@ -34,7 +34,7 @@ Scholarships and Awards
 * Best Poster Presenter, The University of Hong Kong (2021-22). 
   * Research Colloquium for Science Undergraduate Students. Awarded to only 6 students. 
 * Overseas Research Fellowship, The University of Hong Kong (2022)
-* Reaching Out Award, HKSAR (2022)
+* Reaching Out Award, HKSAR Government (2022)
 
 <!---Publications
 ======
