@@ -12,7 +12,7 @@ Simulation is carried out to examine how these tests performs against each alter
 A surprising conjecture that **the test constructed for sharp null** is actually **valid for Neyman’s null** is made. The asymptotic case is proven to be true by **finite population Central Limit Theorem**. In order to understand what finite population CLT means, we finally review the
 related papers and discuss how it is validated and what limitations it has.
 
-<br/><img src='/images/Experiment3 Size2.jpg.png'>
+<br/><img src='/images/Experiment3 Size2.jpg'>
 
 [Download report here](http://wjshku.github.io/files/project2.pdf)
 
