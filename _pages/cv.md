@@ -11,7 +11,7 @@ redirect_from:
 
 **Curriculum Vitae**
 ======
-[Full curriculum vitae in PDF](http://wjshku.github.io/files/CV.pdf). 
+[Full curriculum vitae in PDF](http://wjshku.github.io/files/CV.pdf)
 
 Education
 ======
