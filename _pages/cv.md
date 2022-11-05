@@ -9,32 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+**Curriculum Vitae**
+======
+[Full curriculum vitae in PDF](http://wjshku.github.io/files/CV.pdf). 
+
 Education
 ======
-* Exchange Programme (Aug 2022 - Dec 2022), University of California, Berkeley
-* B.S. in Statistics (Sep 2019 - Jun 2023 Expected), University of Hong Kong, 2022
+* Exchange Programme (_Aug 2022 - Dec 2022_), University of California, Berkeley
+* B.S. in Statistics (_Sep 2019 - Jun 2023_ Expected), University of Hong Kong, 2022
   * Cumulative GPA 4.01/4.30. Dean’ Honors List in three successive years.
-* Winter School (Jan - Feb 2021), Korea University
+* Winter School (_Jan - Feb 2021_), Korea University
 
 Professsional Experience
 ======
-* Summer 2022: Research Assistant, University of Cambridge
+* Research Assistant, University of Cambridge (_Jun 2022 - Aug 2022_)
   * Supervisor: [Prof. Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/)
   * Topic: Causal Inference, Randomization Test
 
-* Fall 2021 - Spring 2022: Research Assistant, University of Hong Kong
+* Research Assistant, University of Hong Kong (_Sep 2021 - Jun 2022_)
   * Supervisor: [Prof. Stephen Lee](https://saasweb.hku.hk/staff/smslee/)
   * Topic: Semi-Supervised Learning, Statistics Inference
   
 Scholarships and Awards
 ======
-* Dean’s Honor List, The University of Hong Kong (2019 – 2020, 2020 – 2021, 2021 -
-2022)
+* Dean’s Honor List, The University of Hong Kong (_2019-20, 2020–21, 2021-22_)
   * Awarded to students who are in the top 10% of their class
-* Best Poster Presenter, The University of Hong Kong (2021-22). 
+* Best Poster Presenter, The University of Hong Kong (_2021-22_). 
   * Research Colloquium for Science Undergraduate Students. Awarded to only 6 students. 
-* Overseas Research Fellowship, The University of Hong Kong (2022)
-* Reaching Out Award, HKSAR Government (2022)
+* Overseas Research Fellowship, The University of Hong Kong (_2022_)
+* Reaching Out Award, HKSAR Government (_2022_)
 
 <!---Publications
 ======
@@ -59,7 +62,5 @@ Scholarships and Awards
 
 Service and Leadership
 ======
-* Effective Altruism Hong Kong Executive Member, 2021 - 2022
-* China Education Association HKU, 2020 - 2021
-
-[Full curriculum vitae here](http://wjshku.github.io/files/CV.pdf). 
+* Effective Altruism Hong Kong Executive Member, _2021-22_
+* China Education Association HKU, _2020-21_
