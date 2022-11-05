@@ -12,8 +12,8 @@ I am a undergraduate student studying Statistics, CS and Economics at [Universit
 
 ### More Information
 
-Capstone Project: [STAT3799 Semi-supervised Learning Based on NW Estimator](https://github.com/wjshku/STAT3799)
+Capstone Project: [STAT3799 Semi-supervised Learning Based on NW Estimator](https://wjshku.github.io/portfolio/project-1/)
 
-Forecasting Project I worked on: [Statistics in Forecasting](https://github.com/wjshku/Forecasting)
+Forecasting Project I worked on: [Statistics in Forecasting](https://wjshku.github.io/portfolio/project-3/)
 
 Courses I enjoyed: Statistical Inference, Statistical Machine Learning, Analysis, Linear Algebra, Probability(Graduate level)
