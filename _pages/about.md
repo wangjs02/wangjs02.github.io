@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student studying Statistics, CS and Economics at [University of Hong Kong](https://www.scifac.hku.hk/). I have focused on mathematical statistics(statistical learning theory, statistical inference, causal inference) and am currently enthusiastically learning about AI safety (Reinforcement learning, active learning, inverse reinforcement learning). I am passionate about academic research and wish to be an impactful researcher. 
+I am an undergraduate student studying Statistics, CS and Economics at [University of Hong Kong](https://www.scifac.hku.hk/). I have focused on mathematical statistics(statistical learning theory, statistical inference, causal inference) and I am excited to explore more about AI safety (reinforcement learning, active learning, inverse reinforcement learning). I am passionate about academic research and wish to be an impactful researcher. 
 
 ### More Information
 
