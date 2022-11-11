@@ -24,6 +24,6 @@ depended largely on the objective of research (**whether we want to optimize for
 [Download report here](http://wjshku.github.io/files/project1a.pdf)
 
 ## Stage 2
-In the second stage, a follow-up project has been done to study the asymptotic behavior of **coverage error(CE)**. We successfully found the explicit expression for coverage error and showed that the bandwidth minimizing the order of MSE would **lead to order 1 CE**. We proposed two methods taking advantage of the Berry-Esseen theorem and derived the minimax bandwidth for coverage error. This work made the conclusion – that the selected model for MSE should not be used for CI directly and vice versa – from my previous capstone project concrete. We plan to extend the result to a multivariate case and publish our findings.
+In the second stage, a follow-up project has been done to study the asymptotic behavior of **coverage error(CE)**. We successfully found the explicit expression for coverage error and showed that the bandwidth minimizing the order of MSE would **lead to order 1 CE**. We proposed two methods taking advantage of the Berry-Esseen theorem and derived the **minimax** bandwidth for coverage error. This work made the conclusion – that **the selected model for MSE should not be used for CI directly and vice versa** – from stage 1 concrete. We plan to extend the result to a **multivariate case** and publish our findings.
 
 [Download report here](http://wjshku.github.io/files/project1b.pdf)
