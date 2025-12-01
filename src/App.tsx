@@ -6,8 +6,8 @@ import { Projects } from './components/Projects';
 import { News } from './components/News';
 import { Awards } from './components/Awards';
 import { AcademicService } from './components/AcademicService';
+import { Affiliations } from './components/Affiliations';
 import { Hobbies } from './components/Hobbies';
-import { Affiliations } from './components/Affiliations'; 
 
 export default function App() {
   return (
@@ -16,7 +16,6 @@ export default function App() {
       <main className="max-w-3xl mx-auto px-6 py-12">
         <Hero />
         <About />
-        
         <Publications />
         <Projects />
         <News />
