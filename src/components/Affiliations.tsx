@@ -1,29 +1,15 @@
-import hkuLogo from 'figma:asset/a6475f49e0f20989f0dad9d6accdf9ad683d1ce4.png';
-
 export function Affiliations() {
   const affiliations = [
     {
       name: 'CDS, HKU',
       location: 'Hong Kong',
-      period: '2023 - present',
-      logo: hkuLogo,
-    },
-    {
-      name: 'Shanghai Qi Zhi Institute',
-      location: 'Shanghai, China',
-      period: '2021 - 2023',
-      logo: null,
-    },
-    {
-      name: 'IIIS, THU',
-      location: 'Beijing, China',
-      period: '2021 - 2023',
-      logo: null,
-    },
-    {
-      name: 'SICE, BUPT',
-      location: 'Beijing, China',
       period: '2019 - 2023',
+      logo: null,
+    },
+    {
+      name: 'NUS',
+      location: 'Singapore',
+      period: '2024 - 2025',
       logo: null,
     },
   ];
@@ -55,9 +41,9 @@ export function Affiliations() {
         ))}
       </div>
 
-      <div className="mt-8 text-center text-gray-500">
+      {/* <div className="mt-8 text-center text-gray-500">
         <p>Visitor from: SG 🇸🇬</p>
-      </div>
+      </div> */}
     </section>
   );
 }

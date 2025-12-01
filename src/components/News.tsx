@@ -4,17 +4,25 @@ export function News() {
   const [showOlder, setShowOlder] = useState(false);
 
   const recentNews = [
-    { date: 'Nov. 2025', content: 'Two papers were accepted by Conference 2026!' },
-    { date: 'Oct. 2025', content: 'PhD candidature is comfirmed.' },
-    { date: 'Sep. 2025', content: 'Honored to renew as a recipient of the IEEE 2025 Signal Processing Society Scholarship.' },
-    { date: 'Aug. 2025', content: 'Honored to have been invited to serve as a PC member for ICPADS 2025.' },
+    { date: 'Nov. 2025', content: 'Finished my capstone project on AI-generated image detection.' },
+    { date: 'Jul. 2025', content: 'Initiated TriSure, an InsurTech startup focused on AI-powered fraud detection.' },
+    { date: 'May 2025', content: 'Returning to Squarepoint Capital for my second internship.' },
+    { date: 'Oct. 2024', content: 'Started a research assistant position at AIDF.' },
+    { date: 'Aug. 2024', content: 'Joined NUS as an MSc student in Data Science and Machine Learning.' },
+    { date: 'Mar. 2024', content: 'Joined Squarepoint Capital as a Quantitative Researcher Intern.' },
   ];
 
   const olderNews = [
-    { date: 'Jul. 2025', content: 'Attended Conference 2025 in City.' },
-    { date: 'Jun. 2025', content: 'Paper accepted to Journal 2025.' },
-    { date: 'May 2025', content: 'Gave a talk at Workshop 2025.' },
-    { date: 'Apr. 2025', content: 'Started collaboration with Research Group.' },
+    { date: 'Aug. 2023', content: 'Attended a 7-day training camp at OBHK, sponsored by Providence Scholarship.' },
+    { date: 'Jul. 2023', content: 'Graduated from HKU with First Class Honours and received Saw Prize in Statistics.' },
+    { date: 'Feb. 2023', content: 'Returned to Hong Kong for my last semester before graduation.' },
+    { date: 'Aug. 2022', content: 'Exchange student at UC Berkeley — Go Bears!' },
+    { date: 'May 2022', content: 'Visited Cambridge as a summer research student with Prof. Qingyuan Zhao.' },
+    { date: 'Feb. 2022', content: 'Best Poster Presenter at the HKU Research Colloquium.' },
+    { date: 'Aug. 2021', content: 'Started capstone project on semi-supervised learning with Prof. Stephen Lee.' },
+    { date: 'May 2021', content: "Awarded Dean's Honor List, The University of Hong Kong." },
+    { date: 'May 2020', content: "Awarded Dean's Honor List, The University of Hong Kong." },
+    { date: 'Oct. 2019', content: 'Voluntary teaching in Sichuan.' },
   ];
 
   return (

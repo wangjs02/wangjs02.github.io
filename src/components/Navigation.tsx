@@ -17,6 +17,12 @@ export function Navigation() {
             About
           </button>
           <button
+            onClick={() => scrollToSection('hobbies')}
+            className="text-gray-600 hover:text-gray-900 transition-colors"
+          >
+            Hobbies
+          </button>
+          <button
             onClick={() => scrollToSection('publications')}
             className="text-gray-600 hover:text-gray-900 transition-colors"
           >

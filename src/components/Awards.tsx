@@ -1,9 +1,10 @@
 export function Awards() {
   const awards = [
-    { date: 'Sep. 2025', award: 'IEEE 2025 Signal Processing Society Scholarship (Renewal)' },
-    { date: 'Oct. 2024', award: 'IEEE 2024 Signal Processing Society Scholarship' },
-    { date: 'Sep. 2022', award: 'HKU Postgraduate Scholarship' },
-    { date: 'Dec. 2021', award: 'National Scholarship (Rank: 7/902, 0.7%)' },
+    { date: '2023', award: 'Saw Prize in Statistics, The University of Hong Kong' },
+    { date: '2022', award: 'Overseas Research Fellowship, The University of Hong Kong' },
+    { date: '2022', award: 'Reaching Out Award, HKSAR Government' },
+    { date: '2021–2022', award: 'Best Poster Presenter, HKU Research Colloquium' },
+    { date: '2019–2022', award: 'Dean’s Honor List, The University of Hong Kong' },
   ];
 
   return (

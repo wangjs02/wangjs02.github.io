@@ -6,33 +6,36 @@ export function About() {
   return (
     <section id="about" className="mb-16">
       <h2 className="mb-6">Research Interests</h2>
-      
-      <p className="text-gray-700 mb-4">
-        During the PhD journey, the focus is on signal-informed sensing and learning. 
-        This means incorporating the intrinsic properties of physical signals when building 
-        deep learning solutions for sensing tasks. In the WIML-era of deep learning, data, 
-        operator design, and cross-modality transfer are central; however, directly migrating 
-        practices from image, speech, and text to wireless or wearable data often degrades 
-        performance and explainability due to temporal dynamics, complex-valued representations, 
-        and partially understood sensing artifacts. Based on this, the work follows the 
-        trajectory below, with emphasis on mmWave radar, acoustic sensing, and human-computer 
-        interaction.
+      <div className="text-gray-700 mb-4 space-y-4">
+      <p>
+        My research interests lie in responsible and interpretable AI, with a focus on how AI
+        systems can be deployed safely and transparently in the real world, especially in the context of wireless sensing and physical AI.
       </p>
 
+      </div>
       {isExpanded && (
         <div className="text-gray-700 mb-4 space-y-4">
-          <p>
-            Additional research details can be added here. This section provides more in-depth
-            information about specific research areas, methodologies, and ongoing projects.
+          <p> 
+            <span className="font-semibold">Responsible AI & content provenance.</span>{' '}
+            I work on <em>trustworthy generative AI via robust content provenance</em>—studying
+            how mechanisms such as watermarking and cryptographic signatures can help detect
+            AI-generated misuse content, improve data provenance, and strengthen user and
+            platform trust.
           </p>
           <p>
-            You can include information about specific techniques, tools, frameworks, or 
-            theoretical foundations that guide your research approach.
+            <span className="font-semibold">Interpretable / knowledge-centric AI.</span>{' '}
+            I am interested in interpretable, knowledge-centric and neuro-symbolic approaches
+            that make model behaviour easier to understand, verify and control.
+          </p>
+          <p>
+            <span className="font-semibold">Physical AI and wireless sensing.</span>{' '}
+            I also explore how to bridge the gap between the physical and digital worlds, using
+            wireless and sensor-based signals to obtain rich contextual intelligence.
           </p>
         </div>
       )}
 
-      <button 
+      <button
         onClick={() => setIsExpanded(!isExpanded)}
         className="text-blue-600 hover:text-blue-800 mt-2"
       >
