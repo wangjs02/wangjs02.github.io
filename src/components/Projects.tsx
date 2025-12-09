@@ -11,7 +11,7 @@ export function Projects() {
       year: 'Aug 2025 – Nov 2025',
       links: [
         { label: 'Code', url: 'https://github.com/wangjs02/ResponsibleAI' },
-        { label: 'Report', url: './assets/AI Image Detection.pdf' },
+        { label: 'Paper', url: './assets/AI Image Detection.pdf' },
       ],
     },
     {
@@ -41,8 +41,8 @@ export function Projects() {
         'Developed a semi-supervised Nadaraya–Watson estimator that is asymptotically superior to the traditional version, with simulations showing 5–10% performance gains. Awarded Best Poster Presenter at the HKU Research Colloquium.',
       year: 'Aug 2021 – Jun 2022',
       links: [
-        { label: 'Paper', url: './assets/Semi-supervised Learning.pdf' },
         { label: 'Code', url: 'https://github.com/wangjs02/STAT3799' },
+        { label: 'Paper', url: './assets/Semi-supervised Learning.pdf' },
       ],
     }
   ];
