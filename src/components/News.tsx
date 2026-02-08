@@ -4,6 +4,8 @@ export function News() {
   const [showOlder, setShowOlder] = useState(false);
 
   const recentNews = [
+    { date: 'Feb. 2026', content: 'Admitted to CS PhD Programme, HKU, advised by Prof. Chenshu Wu, and awarded the HKUPS Scholarship.' },
+    { date: 'Jan. 2026', content: 'Graduated from NUS with a Master of Science in Data Science and Machine Learning.' },
     { date: 'Nov. 2025', content: 'Finished my capstone project on AI-generated image detection.' },
     { date: 'Jul. 2025', content: 'Initiated TriSure, an InsurTech startup focused on AI-powered fraud detection.' },
     { date: 'May 2025', content: 'Returning to Squarepoint Capital for my second internship.' },
