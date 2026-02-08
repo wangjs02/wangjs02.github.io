@@ -33,7 +33,7 @@ export function Projects() {
       description:
         "Placed Fisher’s exact test in a causal inference framework, studying its properties under the strong null via simulation and conjecturing validity under the weak null. Advised by Prof. Qingyuan Zhao.",
       year: 'Jun 2022 – Aug 2022',
-      links: [],
+      links: [{ label: 'Paper', url: './assets/Fisher’s Exact Test.pdf' }],
     },
     {
       title: 'Semi-Supervised Learning Based on Nadaraya–Watson Estimator',
