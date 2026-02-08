@@ -44,7 +44,15 @@ export function Projects() {
         { label: 'Code', url: 'https://github.com/wangjs02/STAT3799' },
         { label: 'Paper', url: './assets/Semi-supervised Learning.pdf' },
       ],
-    }
+    },
+    {
+      title: 'Statistics in Forecasting',
+      description: 'Apply Bayesian methods to real world event forecasting, including important problems such as election result and AI breakthroughs.',
+      year: 'Jan 2022 – May 2022',
+      links: [
+        { label: 'Code', url: 'https://github.com/wangjs02/Stat-Forecasting' },
+        { label: 'Paper', url: './assets/Statistics_in_Forecasting.pdf' }],
+    },
   ];
 
   const visibleProjects = showMore ? projects : projects.slice(0, 3);
