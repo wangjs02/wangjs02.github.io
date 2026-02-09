@@ -4,13 +4,13 @@ export function Affiliations() {
       name: 'CDS, HKU',
       location: 'Hong Kong',
       period: '2019 - 2023',
-      logo: null,
+      logo: './logos/hku.png',
     },
     {
       name: 'NUS',
       location: 'Singapore',
       period: '2024 - 2025',
-      logo: null,
+      logo: './logos/nus.png',
     },
   ];
 
